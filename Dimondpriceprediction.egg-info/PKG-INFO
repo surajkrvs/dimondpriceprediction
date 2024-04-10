@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: Dimondpriceprediction
-Version: 0.0.1
-Author: Suraj
-Author-email: surajkrvs3@gmail.com
-Requires-Dist: pandas
-Requires-Dist: seaborn
-Requires-Dist: numpy
-+

@@ -1,7 +1,0 @@
-setup.py
-Dimondpriceprediction.egg-info/PKG-INFO
-Dimondpriceprediction.egg-info/SOURCES.txt
-Dimondpriceprediction.egg-info/dependency_links.txt
-Dimondpriceprediction.egg-info/requires.txt
-Dimondpriceprediction.egg-info/top_level.txt
-src/__init__.py
